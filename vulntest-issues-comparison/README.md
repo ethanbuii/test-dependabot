@@ -1,0 +1,1 @@
+python3 inspect_issues_main_branch.py --main-issue vulntest_issues_main.json --none-main-issue vulntest_issues_dsc_1187.json
